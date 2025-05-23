@@ -122,8 +122,8 @@
             "enabled": false
         }
     },
-    "appVersion": "1.0.0",
-    "buildNumber": 1,
+    "appVersion": "1.0.1",
+    "buildNumber": 2,
     "runtimeUrl": "https://pushnotificationapp109-sandbox.mxapps.io/",
     "hermesEnabled": false,
     "cookieEncryptionEnabled": false
