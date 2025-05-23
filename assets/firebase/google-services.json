@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615630799891",
+    "project_id": "push-notifications-mendix-test",
+    "storage_bucket": "push-notifications-mendix-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615630799891:android:dde0ad164651e1c4e9abe6",
+        "android_client_info": {
+          "package_name": "myapp.pushnotificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD7MdQcIeIkmN2cmDP_8o9BzvihdorcYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

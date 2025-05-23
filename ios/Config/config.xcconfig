@@ -1,0 +1,10 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = PushNotificationApp
+BUNDLE_IDENTIFIER = myapp.pushnotificationapp
+
+RUNTIME_URL = https:\/\/pushnotificationapp109-sandbox.mxapps.io/
+
+PRODUCT_NAME = PushNotificatio
+
+HERMES_ENABLED = NO
